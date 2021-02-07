@@ -53,7 +53,7 @@
     <!-- Question a -->
     <div class="question">
         <h4>(a) He drove too fast for the police to catch. <b>Remove 'too'</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="a">
             <input type="submit"  name="sa">
         </form>
@@ -76,7 +76,7 @@
     <!-- Question b -->
     <div class="question">
         <h4>(b) I am as strong as him. <b>Change to comparative</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="b">
             <input type="submit"  name="sb">
         </form>
@@ -99,7 +99,7 @@
     <!-- Question c -->
     <div class="question">
         <h4>(c) Iron is more useful than any other metal. <b>Change to superlative</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="c">
             <input type="submit"  name="sc">
         </form>
@@ -122,7 +122,7 @@
         <!-- Question d -->
         <div class="question">
         <h4>(d) It costs twelve rupees. <b>Replace the verb with a noun</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="d">
             <input type="submit"  name="sd">
         </form>
@@ -145,7 +145,7 @@
         <!-- Question e -->
         <div class="question">
         <h4>(e) Besides robbing the poor child, he also murdered her. <b>Change to compiound</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="e">
             <input type="submit"  name="se">
         </form>
@@ -168,7 +168,7 @@
         <!-- Question f -->
         <div class="question">
         <h4>(f) He finished his exercise and put away his books. <b>Change to simple</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="f">
             <input type="submit"  name="sf">
         </form>
@@ -191,7 +191,7 @@
         <!-- Question g -->
         <div class="question">
         <h4>(g) He confessed his crime. <b>Change to complex</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="g">
             <input type="submit"  name="sg">
         </form>
@@ -214,7 +214,7 @@
         <!-- Question h -->
         <div class="question">
         <h4>(h) Except that he hut his hand, he was lucky. <b>Change to simple</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="h">
             <input type="submit"  name="sh">
         </form>
@@ -237,7 +237,7 @@
         <!-- Question i -->
         <div class="question">
         <h4>(i) Search his pockets and you will find the watch. <b>Change to complex</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="i">
             <input type="submit"  name="si">
         </form>
@@ -260,7 +260,7 @@
         <!-- Question j -->
         <div class="question">
         <h4>(j) I am certain you have made a mistake. <b>Change to compound</b></h4>
-        <form action="index.php" method="post">
+        <form action="trans.php" method="post">
             Ans. <input type="text" name="j">
             <input type="submit"  name="sj">
         </form>
